@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uzzair and I'm a Software Developer from Uttar Pradesh</h2>
+<h2 align="left">Hi 👋! My name is Uzzair and I'm a Software Developer from Delhi</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="120" src="https://media.giphy.com/media/UUNlWv7pmr516/giphy.gif"  />
+<img align="right" height="120" src="https://media.giphy.com/media/McUYHXzUDfWLIHiBhN/giphy-downsized-large.gif"  />
 
 ###
 
