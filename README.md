@@ -1,5 +1,7 @@
+[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/a6016a2f184edaf900a7f86fa3db9c30-1661328032/Chompers_Twitter/make-pixel-art-anime-style-game-style-additional-animation.gif)](https://uzzairqureshi.io)
 <h1 align="center">Hi 👋, I'm Md Uzzair Qureshi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5vYWtwc2k5aWpsc3Y3cXE0bWlvZ3oxb3hqeWYyNzI0aHE4djA2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzair61&label=Profile%20views&color=0e75b6&style=flat" alt="uzair61" /> </p>
 
